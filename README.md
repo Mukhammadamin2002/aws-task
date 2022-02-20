@@ -1,3 +1,4 @@
+Run ./nginx-install.sh {password} | give an argument
 Link to browser image is given in s3bucket-link.txt file
 
 http://3.123.231.114/
